@@ -7,7 +7,7 @@
 ## 🎥 Demo Video
 Here is a preview of the interactive experience of the **MONO** landing page:
 
-<video src="[./public/demo.mp4](https://github.com/user-attachments/assets/e9c7ed64-1fd4-4155-ac2a-4160218790b3)" width="100%" controls autoplay loop muted></video>
+<video src="https://github.com/user-attachments/assets/e9c7ed64-1fd4-4155-ac2a-4160218790b3" width="100%" controls autoplay loop muted></video>
 
 *If the video above does not play automatically, you can download or watch it directly at: [public/demo.mp4](./public/demo.mp4)*
 
